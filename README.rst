@@ -25,3 +25,10 @@ How to use this script
   ``index.php`` on your website
 * Copy contents of ``test-plugin/test-plugin.php`` file to your plugin's main
   file
+
+Credits
+-------
+
+* `Kaspars <http://konstruktors.com/blog/wordpress/2538-automatic-updates-for-plugins-and-themes-hosted-outside-wordpress-extend/#comment-2550>`_, for original idea of this script
+* `michelf <http://michelf.com/projects/php-markdown/>`_, for the markdown
+  script
