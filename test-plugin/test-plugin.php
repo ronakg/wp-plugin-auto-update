@@ -118,7 +118,7 @@ class WpPluginAutoUpdate {
     }
 }
 
-$wp_plugin_auto_update = new WpPluginAutoUpdate('http://www.ronakg.com/update_plugin/', 'stable', basename(dirname(__FILE__)));
+$wp_plugin_auto_update = new WpPluginAutoUpdate('http://www.ronakg.com/wp_plugin_auto_update/', 'stable', basename(dirname(__FILE__)));
 
 if (DEBUG) {
     // Enable update check on every request. Normally you don't need 
