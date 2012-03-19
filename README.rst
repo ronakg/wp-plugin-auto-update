@@ -16,9 +16,9 @@ Features
 How to use this script
 ----------------------
 
-* Upload ``index.php`` file to your website
-* Copy ``test-plugin.ini`` to the same location and rename it to
-  ``your-plugin-slug.ini``
+* Copy contents of this project (excluding ``test-plugin/``) to a location on
+  your website
+* Rename ``test-plugin.ini`` to ``your-plugin-slug.ini``
 * Modify ``your-plugin-slug.ini`` file according the help instructions in the
   file
 * Modify ``test-plugin/test-plugin.php`` file to reflect the location of
