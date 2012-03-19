@@ -88,11 +88,11 @@ if ($action == 'plugin_information') {
 
 function array_to_object($array = array()) {
     if (empty($array) || !is_array($array))
-		return false;
-		
-	$data = new stdClass;
+        return false;
+
+    $data = new stdClass;
     foreach ($array as $akey => $aval)
-            $data->{$akey} = $aval;
-	return $data;
+        $data->{$akey} = $aval;
+    return $data;
 }
 ?>
