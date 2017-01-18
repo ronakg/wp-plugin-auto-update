@@ -1,0 +1,8 @@
+title: Auto Update Framework for Plugins not hosted on WordPress.org
+description: 
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
