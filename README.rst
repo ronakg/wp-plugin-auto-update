@@ -1,3 +1,6 @@
+This script is now DEPRECATED
+=============================
+
 Auto Update script for WP Plugins not hosted on WordPress.org
 =============================================================
 
